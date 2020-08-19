@@ -1,8 +1,8 @@
 https://www.youtube.com/watch?v=DIw02CaEusY
 
 # VS-Code Shortcuts:
-Ctrl + Shift + B (Build)
-Ctrl + Shift + P (Show All Commands)
+- Ctrl + Shift + B (Build)
+- Ctrl + Shift + P (Show All Commands)
 
 # Windows Compiler App: mingw-get-setup.exe
 
