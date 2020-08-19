@@ -1,0 +1,9 @@
+Dode
+Female
+40
+Ahmed
+Male
+30
+Abdo
+Male
+35

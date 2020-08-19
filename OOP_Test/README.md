@@ -6,6 +6,6 @@ Ctrl + Shift + P (Show All Commands)
 
 # Windows Compiler App: mingw-get-setup.exe
 
-c_cpp_properties.json # Is the Application configuration file.
-tasks.json # Is the Tasks configuration file
-launch.json # Is used to configure debugging settings
+- c_cpp_properties.json # Is the Application configuration file.
+- tasks.json # Is the Tasks configuration file
+- launch.json # Is used to configure debugging settings
