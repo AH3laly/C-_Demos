@@ -79,12 +79,15 @@ No: Pointers are one particular type of Iterator.
   Instead every element is pointing to the next element memory location.
 
 #Example:
+
+```cpp
 // & my_vector means calling the vector by reference to avoid passing the whole, vector each time I want to deal with.
 // const to make sure that the function will not modify the vector.
 void print(const vector <int>& my_vector){
     cout << "Vector Content {" << endl;
     cout << "}\n\n";
 }
+```
 
 # If there is not "using namespace std;" I have to write std::vector, to define a vector.
 
