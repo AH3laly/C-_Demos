@@ -1,5 +1,5 @@
 /**
- * This program is used to convert Temprature degrees from Fahrenheit to Celsius
+ * This is a program convert Temprature degrees from Fahrenheit to Celsius
  * Used Formula: celsius = (5/9) * (Fahenheit - 32)
  * By: Abdelrahman Helaly <AH3laly@gmail.com>
  */

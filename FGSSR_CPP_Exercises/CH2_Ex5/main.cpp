@@ -1,6 +1,6 @@
 /**
  * This is a program computes the summation and multiplication of two numbers.
- * By: Abdelrahman Helalt <AH3laly@gmail.com>
+ * By: Abdelrahman Helaly <AH3laly@gmail.com>
  */
 
 
